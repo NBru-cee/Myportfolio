@@ -51,7 +51,7 @@ const ProjectCard = ({
                                     onClick={() => {
                                           window.open(live_demo, "_blank");
                                     }}
-                                    className="black-gradient w-10 h-10 flex items-center justify-center rounded-full cursor-pointer"
+                                    className="black-gradient w-20 h-10 flex items-center justify-center rounded-full cursor-pointer"
                               >
                                     <span>Demo</span>
                               </div>
