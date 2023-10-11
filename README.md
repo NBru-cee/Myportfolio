@@ -1,9 +1,9 @@
-# My 3d developer portfolio
+# My  portfolio
 
 Made it in react, react-three-fiber and tailwindcss, The most in demond technologies on the market.
 
-Github repo: https://github.com/NBru-cee/three-portfolio
-Live demo: https://dishies.netlify.app
+Github repo: https://github.com/NBru-cee/Myportfolio
+Live demo: https://myportfolio.netlify.app
 
 ## Technologies
 
