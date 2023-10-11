@@ -3,7 +3,7 @@
 Made it in react, react-three-fiber and tailwindcss, The most in demond technologies on the market.
 
 Github repo: https://github.com/NBru-cee/Myportfolio
-Live demo: https://myportfolio.netlify.app
+Live demo: [https://myportfolio.netlify.app](https://nkundabagenzibruce.netlify.app/)
 
 ## Technologies
 
